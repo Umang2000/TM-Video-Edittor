@@ -51,8 +51,8 @@ Requirement Android device running on Android 5.0+
 
 ## Referrences
 - Referred to [Camera Recorder](https://github.com/MasayukiSuda/CameraRecorder-android) for Filters and shaders.
-- Used <a href = "https://www.flaticon.com/free-icon/camera_685672?term=camera&page=1&position=49&page=1&position=49&related_id=685672&origin=tag" title="Cmaera from flaticon"</a> for icon
-- <a href = "https://developer.android.com/docs" Title = "Android Documentation" </a>
-- Stack Overflow.
+- Used [Cmaera from flaticon](https://www.flaticon.com/free-icon/camera_685672?term=camera&page=1&position=49&page=1&position=49&related_id=685672&origin=tag) for icon
+- [Android Documentation](https://developer.android.com/docs)
+- - Stack Overflow.
 
 
