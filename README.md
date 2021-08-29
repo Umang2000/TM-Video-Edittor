@@ -1,6 +1,6 @@
 # TM Video Editor Android
 
-![alt text](https://github.com/Umang2000/test2/blob/master/camera.png?raw=true)
+![alt text](https://github.com/Umang2000/test2/blob/master/camera.jpg?raw=true)
 
 ## Problem Statement
 To create an android application which can fullfill the given points of tests.
