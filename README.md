@@ -1,6 +1,6 @@
 # TM Video Editor Android
 
-Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+![alt text](https://github.com/Umang2000/test2/blob/master/camera.png?raw=true)
 
 ## Problem Statement
 To create an android application which can fullfill the given points of tests.
