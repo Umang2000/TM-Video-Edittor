@@ -5,7 +5,7 @@ Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good W
 ## Problem Statement
 To create an android application which can fullfill the given points of tests.
 
-#### Discription
+#### Description
 1.	Should make an Activity which holds the camera preview in realtime and render any filter which could be rendered using openGL or Vulkan and modify the content of camera preview in real time.
 
 2.	The activity should provide an option to record the processed camera preview along with any audio data captured during the camera preview recording session.
