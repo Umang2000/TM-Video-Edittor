@@ -50,8 +50,8 @@ Requirement Android device running on Android 5.0+
 - For 1st run, during splash screen, give permission for camera, storage and microphone usage.
 
 ## Referrences
-- <a href="https://github.com/MasayukiSuda/CameraRecorder-android" Title = "Camera Recorder" </a> for Filters and shaders.
-- <a href = "https://www.flaticon.com/free-icon/camera_685672?term=camera&page=1&position=49&page=1&position=49&related_id=685672&origin=tag" Title = "Cmaera from flaticon"</a> for icon
+- <a href="https://github.com/MasayukiSuda/CameraRecorder-android" title="Camera Recorder" </a> for Filters and shaders.
+- <a href = "https://www.flaticon.com/free-icon/camera_685672?term=camera&page=1&position=49&page=1&position=49&related_id=685672&origin=tag" title="Cmaera from flaticon"</a> for icon
 - <a href = "https://developer.android.com/docs" Title = "Android Documentation" </a>
 - Stack Overflow.
 
