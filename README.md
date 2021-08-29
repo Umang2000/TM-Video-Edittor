@@ -2,7 +2,7 @@
 ![alt text](camera.png?raw=true)
   
 # Problem Statement
-To create an android application which can fullfill the given points of tests.
+To create an android application that can fulfil the given points of tests.
 
 #### Description
 1.	Should make an Activity which holds the camera preview in realtime and render any filter which could be rendered using openGL or Vulkan and modify the content of camera preview in real time.
@@ -27,15 +27,15 @@ To create an android application which can fullfill the given points of tests.
 4.	Experience with ARCore is a huge plus.
 
 #### Functionalities
-1. Capture videos or Photos with or without Filter applied.
-2. Preview the camera view in Real Time with filter applied (if any).
-3. Choose from a list of filters.
-4. Option to switch between front and back camera.
-5. Capture video or photo in portrait or landscape.
-6. Save the captured video/ photo in local storage(Internal Storage).
-7. Turn on or off the flash.
-8. Compatible with latest Android (tested on Android 10, Android 11 and Android 12 beta 4.1).
-9. Day and Night Theme switchable.
+1.  Capture videos or Photos with or without Filter applied.
+2.  Preview the camera view in Real-Time with the filter applied (if any).
+3.  Choose from a list of filters.
+4.  Option to switch between front and back camera.
+5.  Capture video or photo in portrait or landscape.
+6.  Save the captured video/ photo in local storage(Internal Storage).
+7.  Turn on or off the flash.
+8.  Compatible with the latest Android (tested on Android 10, Android 11 and Android 12 beta 4.1).
+9.  Day and Night Theme switchable.
 
 ## Installation Guide
 #### To View Source Code
