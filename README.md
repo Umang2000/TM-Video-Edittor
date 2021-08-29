@@ -1,9 +1,7 @@
 # TM Video Editor Android
-
 ![alt text](camera.png?raw=true)
-![2alt text](camera - Copy.jpg?raw=true)
-
-## Problem Statement
+  
+# Problem Statement
 To create an android application which can fullfill the given points of tests.
 
 #### Description
