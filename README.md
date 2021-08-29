@@ -1,8 +1,6 @@
 # TM Video Editor Android
 
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/41600508/126094519-e7a42ba0-166c-42e9-b642-860132379875.png" width = "350" height = "350" >
-</p>
+<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Problem Statement
 To create an android application which can fullfill the given points of tests.
